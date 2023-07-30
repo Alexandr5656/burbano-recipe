@@ -1,5 +1,5 @@
 url: cookbook.Alexandr5656.re/
-locale: no
+locale: Yes
 edit:
   repo: github.com/Alexandr5656/burbano-recipe/edit
   base: /src
@@ -7,20 +7,20 @@ edit:
 input: ./src
 output: ./docs
 branding:
-  title: Mere?
+  title: Burbano CookBook
 meta:
   title: " | Dolby mat til alle"
 links:
-  - text: Emner
+  - text: Tags
     link: ./tags
     icon: tag
-  - text: Kategorier
+  - text: Categories
     link: ./categories
     icon: container
-  - text: Blogg
+  - text: Blog
     link: ./blog
     icon: book
-  - text: Foreslå en oppskrift
+  - text: Add To Book
     link: https://github.com/Alexandr5656/burbano-recipe/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D
     icon: git-pull-request
 footer:

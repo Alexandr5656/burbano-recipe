@@ -1,22 +1,22 @@
 ---
-description: "Dolby mat til alle"
+description: "Dolby food for everyone"
 icon: ":hocho:"
 ---
 
-# Om Mere?
+# About More?
 
 !!! success
-Om du mangler litt inspirasjon til hva du skal lage til middag, ta en titt i [!badge
-corners="pill" size="s" variant="light" text="Kategorier"](./categories) eller [!badge
-corners="pill" size="s" variant="light" text="Emner"](./tags)!
+If you need some inspiration for what to make for dinner, take a look at [!badge
+corners="pill" size="s" variant="light" text="Categories"](./categories) or [!badge
+corners="pill" size="s" variant="light" text="Topics"](./tags)!
 !!!
 
 !!! warning
-Hvis du er på jakt etter noe spesielt, sjekk om jeg har lagt den inn ved å bruke
-søkefeltet øverst til høyre. Og om du ikke finner den, [!badge size="s" corners="pill"
-variant="light" iconAlign="right" icon="paper-airplane" text="foreslå den til meg"](https://github.com/engeir/simple-recipes-cookbook/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D)!
+If you're looking for something in particular, check if I've posted it using
+the search field at the top right. And if you can't find it, [!badge size="s" corners="pill"
+variant="light" iconAlign="right" icon="paper-airplane" text="suggest it to me"](https://github.com/engeir/simple-recipes-cookbook/issues/new?assignees=&labels =recipe&template=recipe-request.md&title=%5BRECIPE%5D)!
 !!!
 
-Eventuelt kan du anmode om at en ny oppskrift legges til via et gaflet repository:
+Optionally, you can request that a new recipe be added via a forked repository:
 
 [!ref icon=":rocket:" text="Hvordan bidra"](/blog/2022-5-24-hvordan-bidra.md)
